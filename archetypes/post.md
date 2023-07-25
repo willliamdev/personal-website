@@ -13,12 +13,10 @@ description: "Desc Text."
 
 disableHLJS: true # to disable highlightjs
 disableShare: false
+ShowBreadCrumbs: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 # cover:
